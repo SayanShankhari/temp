@@ -1,0 +1,22 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {1.1}Block-Chain}{1}
+\contentsline {section}{\numberline {1.2}Applications of BCTs}{1}
+\contentsline {section}{\numberline {1.3}Security and Integrity in BCTs}{2}
+\contentsline {section}{\numberline {1.4}Scope and Adopted Approach}{2}
+\contentsline {section}{\numberline {1.5}Thesis Contribution}{2}
+\contentsline {section}{\numberline {1.6}Roadmap of the Thesis}{3}
+\contentsline {chapter}{\numberline {2}Background}{1}
+\contentsline {chapter}{\numberline {3}Details}{1}
+\contentsline {section}{\numberline {3.1}Transaction}{1}
+\contentsline {section}{\numberline {3.2}Timestamp}{2}
+\contentsline {section}{\numberline {3.3}Proof of Work}{2}
+\contentsline {section}{\numberline {3.4}Network}{2}
+\contentsline {section}{\numberline {3.5}Incentive}{3}
+\contentsline {section}{\numberline {3.6}Claiming Memory}{3}
+\contentsline {section}{\numberline {3.7}Simplified Payment Verification}{3}
+\contentsline {section}{\numberline {3.8}Combining and Splitting Value}{3}
+\contentsline {section}{\numberline {3.9}Privacy}{3}
+\contentsline {chapter}{\numberline {4}Proposals}{1}
+\contentsline {chapter}{\numberline {5}Implementation}{1}
+\contentsline {chapter}{\numberline {6}Conclusion and Further Work}{3}
+\contentsline {subsubsection}{Further Work}{3}

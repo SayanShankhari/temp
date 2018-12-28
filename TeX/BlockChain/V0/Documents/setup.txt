@@ -1,0 +1,92 @@
+Docker, Docker Compose
+Node-JS & NPM
+Git client
+Golang
+
+
+Install Update
+	sudo apt-get update
+	sudo apt-get upgrade
+
+
+
+		$  [E]
+
+WAY-1:
+	DAPP:-
+
+	Etherreum:
+		$ sudo add-apt-repository -y ppa:ethereum/ethereum [E]
+		$ sudo apt-get update [E]
+		$ sudo apt-get install ethereum [E]
+		$ geth version [E]
+
+	NPM or Node-JS Package Manager (https://www.npmjs.com/):
+		$ sudo apt-get install node [E]
+		$ node -v [E]
+	Truffle Framework (https://truffleframework.com)
+		$ npm install -g truffle [E]
+	Ganache (https://truffleframework.com/ganache/)
+		Direct Download
+		Properties --> Permissions --> Run as Executable
+	Google-Chrome (https://www.google.com/chrome/):
+		Direct Download and Run
+			OR
+		$ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb [E]
+		$ sudo dpkg -i google-chrome-stable_current_amd64.deb [E]
+		$ google-chrome [E]
+		$ cat /etc/apt/sources.list.d/google-chrome.list [E]
+	MetaMask (https://metamask.io/)
+		Direct Download as Chrome Extension
+		Mr.S123@MM
+
+
+MetaMask Seed Words:
+ritual salute update used license admit seat coconut dry fine weapon harvest
+
+
+	Package Control Highlighter (https://packagecontrol.io/)
+
+
+
+	$ mkdir election [E]
+	$ cd election [E]
+	$ truffle unbox pet shop [E]
+
+
+
+WRITE Election.sol
+WRITE .
+
+SETUP truffle.js with correct network id
+
+$ truffle migrate [E]
+
+
+OPEN truffle console
+	$ truffle console [E]
+	> Election.deployed().then(function(instance) { app = instance })
+promices > var app = Election.deployed()
+	> app.address
+	> app.candidate()
+
+change version to ^0.4.2
+
+
+$ git status [E]
+$ git add . [E]
+$ git commit -m "1. Smoke Test" [E]
+
+
+
+
+WAY-2:
+
+
+
+	https://docs.docker.com/engine/installation/linux/ubuntulinux/
+	https://docs.docker.com/install/linux/docker-ee/ubuntu/
+	
+
+	Install Docker
+		uname -r
